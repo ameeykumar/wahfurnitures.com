@@ -3,7 +3,7 @@
 	/* Background Style */
 	html{
 		height:100%;
-						background: #ffffff url(img/furniture.jpg) no-repeat center bottom fixed;
+						background: #ffffff url(/img/furniture.jpg) no-repeat center bottom fixed;
 									-webkit-background-size: cover;
 					-moz-background-size: cover;
 					-o-background-size: cover;
